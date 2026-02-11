@@ -50,8 +50,8 @@ Make predictions on new images and analyze the results.
 
 ## PROGRAM
 
-### Name: Nandhini M
-### Register Number: 212224040211
+### Name: NITHYA S
+### Register Number: 212224240106
 
 ```
 import torch
@@ -171,11 +171,11 @@ plt.show()
 
 ### Confusion Matrix
 
-<img width="809" height="767" alt="image" src="https://github.com/user-attachments/assets/ecf4dd68-2abf-4749-b26b-2e8120d788b4" />
+<img width="902" height="863" alt="image" src="https://github.com/user-attachments/assets/e55736df-5e0d-41ab-a66d-11dcc9f416cc" />
 
 ### Classification Report
 
-<img width="479" height="409" alt="image" src="https://github.com/user-attachments/assets/8972a16e-e2ca-4860-a854-0eecdf035772" />
+<img width="547" height="476" alt="image" src="https://github.com/user-attachments/assets/643953b5-f7bf-475e-933d-8faa27426a7e" />
 
 
 ### New Sample Data Prediction
